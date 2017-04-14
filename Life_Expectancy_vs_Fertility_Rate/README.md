@@ -4,6 +4,8 @@ This bubble plot was inspired by [this similar example](https://www.google.com/p
 
 All data was downloaded from [World Bank](http://www.worldbank.org/)
 
+## Screenshot
+
 ![alt tag](Screenshot.png)
 
 ## Execution of Code
