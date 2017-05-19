@@ -1,0 +1,41 @@
+5,"t","Cost of Pollination: Released December 22, 2016, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+5,"t","Paid Pollinated Acres, Price per Acre, Colonies Used, Price per Colony, and"
+5,"t","Total Value of Pollination – Region 5: 2015"
+5,"t","[See regional listing on page 17]"
+5,"h","","","","","",""
+5,"h","","Region 5","Region 5","Region 5","Region 5","Region 5"
+5,"h","","","","","",""
+5,"h","Crop","Paid","Price per","Colonies","Price per","Total value"
+5,"h","","pollinated acres","acre","used","colony","of pollination"
+5,"h","","","","","",""
+5,"u","","(acres)","(dollars)","(colonies)","(dollars)","(1,000 dollars)"
+5,"d","Tree fruit",,,,,
+5,"d","  Apple",104200,45.2,91000,52.7,4796
+5,"d","  Cherry",40000,67.1,62000,46.5,2883
+5,"d","  Pear",27800,56.0,30000,52.0,1560
+5,"d","  Other tree fruit 1/",3250,52.0,7500,51.9,389
+5,"d","",,,,,
+5,"d","Melons",,,,,
+5,"d","  Watermelon",2250,50.4,2600,44.9,117
+5,"d","",,,,,
+5,"d","Berries",,,,,
+5,"d","  Blueberry",14600,87.2,33000,39.4,1300
+5,"d","  Cranberry",4950,114.0,8500,69.3,589
+5,"d","  Raspberry",6700,42.0,8000,36.8,294
+5,"d","  Other berries 2/",3150,31.8,5000,28.1,141
+5,"d","",,,,,
+5,"d","Vegetables",,,,,
+5,"d","  Squash",3550,45.2,6000,35.0,210
+5,"d","  Other vegetables 3/",5100,78.2,9500,48.8,464
+5,"d","",,,,,
+5,"d","Other crops",,,,,
+5,"d","  Clover",7600,38.8,10000,35.7,357
+5,"d","  Misc. crops 4/",5900,82.3,13000,44.2,575
+5,"d","",,,,,
+5,"d","All other 5/",2600,20.3,1200,71.2,85
+5,"c",""
+5,"f","1/ Includes other tree fruit."
+5,"f","2/ Includes other berries."
+5,"f","3/ Includes vegetables crops."
+5,"f","4/ Includes other miscellaneous crops."
+5,"f","5/ Includes any crops not categorized above."
