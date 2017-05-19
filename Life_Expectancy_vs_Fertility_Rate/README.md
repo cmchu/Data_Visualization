@@ -17,6 +17,6 @@ The code requires the following R libraries:
 - ggrepel
 
 In order to run the visualization locally, the following code can be executed in an R script.
-- shiny::runGitHub("Data_Visualization", username = "cmchu", subdir = "Life_Expectancy_vs_Fertility_Rate/app.R")
+- ```shiny::runGitHub("Data_Visualization", username = "cmchu", subdir = "Life_Expectancy_vs_Fertility_Rate")```
 
 Note: the above required libraries must already be installed.
