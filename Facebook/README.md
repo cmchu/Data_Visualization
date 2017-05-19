@@ -1,6 +1,8 @@
 # Facebook
 
-Data was downloaded from [here](http://archive.ics.uci.edu/ml/datasets/Facebook+metrics).
+This R shiny app displays 3 different multivariate techniques of visualizing the Facebook dataset: heatmap, small multiples, and parallel coordinates. The main goal of this app was to learn about different multivariate visualization techniques and to practice implementing them in R shiny with a high level of interactivity. All visualizations are interactive.
+
+Data was downloaded from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Facebook+metrics).
 
 ## Screenshots
 
@@ -24,10 +26,3 @@ In order to run the visualization locally, the following code can be executed in
 - ```shiny::runGitHub("Data_Visualization", username = "cmchu", subdir = "Facebook")```
 
 Note: the above required libraries must already be installed.
-
-
-
-# Life Expectancy vs Fertility Rate
-
-This bubble plot was inspired by [this similar example](https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&ctype=b&strail=false&nselm=s&met_x=sp_dyn_le00_in&scale_x=lin&ind_x=false&met_y=sp_dyn_tfrt_in&scale_y=lin&ind_y=false&met_s=sp_pop_totl&scale_s=lin&ind_s=false&dimp_c=country:region&ifdim=country&iconSize=0.5&uniSize=0.035#!ctype=b&strail=false&bcs=d&nselm=s&met_x=sp_dyn_le00_in&scale_x=lin&ind_x=false&met_y=sp_dyn_tfrt_in&scale_y=lin&ind_y=false&met_s=sp_pop_totl&scale_s=lin&ind_s=false&dimp_c=country:region&ifdim=country&pit=-307213200000&hl=en_US&dl=en_US&ind=false). This visualization was created mainly using R Shiny and ggplot2. It displays the life expectancy of countries vs their fertility rate over time. Additionally, the color of the bubbles is based on the continent the country belongs to and the size of the bubbles is based on the population size of that country. The plot is interactive, allowing users to examine a particular year, highlight a certain region, pick specific countries to track over time, and to see which bubble corresponds to which country.
-
