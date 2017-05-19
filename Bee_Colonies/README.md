@@ -11,6 +11,8 @@ I gathered data from the following sources:
 - http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1191
 - http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=2008
 
+The _BeeColonies-05-12-2016_, _CostPoll-12-22-2016_, and _Hone-03-22-2016_ folders all contain the original data downloaded from the listed sources above. The _clean_data_ folder contains the cleaned data. The _clean_data.R_ file cleans the original downloaded data.
+
 ## Screenshots
 
 ![alt tag](screenshot1.png)
