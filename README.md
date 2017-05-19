@@ -4,6 +4,12 @@ This repository contains various data visualization projects I have worked on. E
 
 Below are screenshots of the data visualizations.
 
+## Bee Colonies
+
+![Alt text](Bee_Colonies/screenshot1.png)
+
+![Alt text](Bee_Colonies/screenshot2.png)
+
 ## Facebook
 
 ![Alt text](Facebook/screenshot1.png)
